@@ -1,0 +1,4 @@
+project: PROJECT
+target: ascii85_fuzzer
+cmds:
+- cmd: /out/ascii85_fuzzer
